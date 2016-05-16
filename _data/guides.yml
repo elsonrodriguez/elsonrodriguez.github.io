@@ -59,6 +59,8 @@ toc:
         path: /docs/getting-started-guides/juju/
       - title: Rackspace on CoreOS
         path: /docs/getting-started-guides/rackspace/
+      - title: OpenStack Heat
+        path: /docs/getting-started-guides/openstack-heat/
     - title: On-Premise VMs
       section:
       - title: Vagrant or VMware
